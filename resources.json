@@ -64,6 +64,13 @@
   },
   {
     "cat": "text",
+    "group": "life",
+    "name": "HowToLiveBetter（我的 fork）",
+    "url": "https://github.com/Hua2026-ai/HowToLiveBetter",
+    "desc": "中文循证生活指南：长寿防病、急救、省钱理财、法律红线、失业工伤、医保社保、恋爱婚育、怀孕育儿、创业合规、出国与技能。每条标注成本、收益、证据等级和原始出处，只引期刊论文与官方文件，不灌水。上游约 36k★。"
+  },
+  {
+    "cat": "text",
     "group": "writing",
     "name": "中文文案排版指北",
     "url": "https://github.com/sparanoid/chinese-copywriting-guidelines",
