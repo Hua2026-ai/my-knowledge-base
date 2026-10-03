@@ -1,0 +1,331 @@
+[
+  {
+    "cat": "text",
+    "group": "ebook",
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org",
+    "desc": "公有领域英文电子书 7 万+ 册，EPUB / PDF 直接下载，无需注册。"
+  },
+  {
+    "cat": "text",
+    "group": "ebook",
+    "name": "Internet Archive",
+    "url": "https://archive.org",
+    "desc": "数字图书馆，藏书 + 网页时光机 + 影音档案，找绝版资料的最后手段。"
+  },
+  {
+    "cat": "text",
+    "group": "ebook",
+    "name": "维基文库",
+    "url": "https://zh.wikisource.org",
+    "desc": "中文公有领域文献全文库，古籍、民国书刊为主。"
+  },
+  {
+    "cat": "text",
+    "group": "ebook",
+    "name": "中国哲学书电子化计划",
+    "url": "https://ctext.org",
+    "desc": "先秦两汉典籍原文，带逐句英译与字词索引，做古文研究很省事。"
+  },
+  {
+    "cat": "text",
+    "group": "ebook",
+    "name": "书格",
+    "url": "https://www.shuge.org",
+    "desc": "古籍善本高清影印 PDF，审美在线，适合收藏与考据。"
+  },
+  {
+    "cat": "text",
+    "group": "doc",
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/zh-CN/",
+    "desc": "Web 技术事实标准文档，有完整中文版，查 HTML/CSS/JS API 首选。"
+  },
+  {
+    "cat": "text",
+    "group": "doc",
+    "name": "DevDocs",
+    "url": "https://devdocs.io",
+    "desc": "几十种语言/框架的 API 文档聚合，支持离线安装，查文档不用满网跳。"
+  },
+  {
+    "cat": "text",
+    "group": "doc",
+    "name": "菜鸟教程",
+    "url": "https://www.runoob.com",
+    "desc": "中文入门教程速查，覆盖面广，适合快速上手一门新语言。"
+  },
+  {
+    "cat": "text",
+    "group": "doc",
+    "name": "Wayback Machine",
+    "url": "https://web.archive.org",
+    "desc": "网页快照归档，原文被删或改版时可以翻历史版本。"
+  },
+  {
+    "cat": "text",
+    "group": "writing",
+    "name": "中文文案排版指北",
+    "url": "https://github.com/sparanoid/chinese-copywriting-guidelines",
+    "desc": "中英文混排、标点、空格的统一规范，写文档前看一遍能省很多返工。"
+  },
+  {
+    "cat": "text",
+    "group": "writing",
+    "name": "Obsidian",
+    "url": "https://obsidian.md",
+    "desc": "本地 Markdown 双链笔记，数据全在自己硬盘上，适合当个人知识库载体。"
+  },
+  {
+    "cat": "media",
+    "group": "course",
+    "name": "中国大学 MOOC",
+    "url": "https://www.icourse163.org",
+    "desc": "国内高校公开课平台，名校课程免费学，部分可拿证书。"
+  },
+  {
+    "cat": "media",
+    "group": "course",
+    "name": "Bilibili",
+    "url": "https://www.bilibili.com",
+    "desc": "除了娱乐，学习区和科技区有大量高质量系统课程与科普，中文首选。"
+  },
+  {
+    "cat": "media",
+    "group": "course",
+    "name": "MIT OpenCourseWare",
+    "url": "https://ocw.mit.edu",
+    "desc": "MIT 几乎全部课程的讲义、作业、考试题免费开放，自学硬核科目首选。"
+  },
+  {
+    "cat": "media",
+    "group": "course",
+    "name": "Coursera",
+    "url": "https://www.coursera.org",
+    "desc": "国际名校与企业的体系化课程，多数可旁听（免费），证书需付费。"
+  },
+  {
+    "cat": "media",
+    "group": "course",
+    "name": "edX",
+    "url": "https://www.edx.org",
+    "desc": "哈佛、MIT 等牵头的公开课平台，与 Coursera 互为补充。"
+  },
+  {
+    "cat": "media",
+    "group": "course",
+    "name": "可汗学院（中文）",
+    "url": "https://zh.khanacademy.org",
+    "desc": "数学、科学基础概念讲得极清楚，适合补基础或给小孩用。"
+  },
+  {
+    "cat": "media",
+    "group": "podcast",
+    "name": "小宇宙",
+    "url": "https://www.xiaoyuzhoufm.com",
+    "desc": "中文播客主流客户端，通勤/做家务时的信息输入渠道。"
+  },
+  {
+    "cat": "media",
+    "group": "podcast",
+    "name": "Apple Podcasts",
+    "url": "https://podcasts.apple.com",
+    "desc": "英文播客资源最全，练听力 + 获取海外一手观点。"
+  },
+  {
+    "cat": "media",
+    "group": "audio",
+    "name": "LibriVox",
+    "url": "https://librivox.org",
+    "desc": "公有领域书籍的志愿者朗读有声书，免费且可随意使用。"
+  },
+  {
+    "cat": "media",
+    "group": "audio",
+    "name": "Free Music Archive",
+    "url": "https://freemusicarchive.org",
+    "desc": "按授权协议筛选的免费音乐库，做视频找 BGM 时注意看具体许可。"
+  },
+  {
+    "cat": "media",
+    "group": "audio",
+    "name": "Pixabay",
+    "url": "https://pixabay.com",
+    "desc": "免费图片、音乐、视频素材，可商用且大多免署名，做自媒体够用。"
+  },
+  {
+    "cat": "media",
+    "group": "mediatool",
+    "name": "VoiceStudio（我的 fork）",
+    "url": "https://github.com/Hua2026-ai/VoiceStudio",
+    "desc": "完全本地的语音工作台：声音克隆、配音、听写、转写、有声书，不上传云端，隐私友好。"
+  },
+  {
+    "cat": "media",
+    "group": "mediatool",
+    "name": "OpenMontage（我的 fork）",
+    "url": "https://github.com/Hua2026-ai/OpenMontage",
+    "desc": "开源 Agentic 视频制作系统，12 条流水线 + 100+ 工具 + 700+ Agent 技能文件。"
+  },
+  {
+    "cat": "media",
+    "group": "mediatool",
+    "name": "jianying-headless（我的 fork）",
+    "url": "https://github.com/Hua2026-ai/jianying-headless",
+    "desc": "剪映草稿的无头编辑与导出，批量剪视频、自动化出片用得上。"
+  },
+  {
+    "cat": "media",
+    "group": "mediatool",
+    "name": "HandBrake",
+    "url": "https://handbrake.fr",
+    "desc": "开源视频转码压缩，压制、改封装、批量处理都很稳。"
+  },
+  {
+    "cat": "software",
+    "group": "dev",
+    "name": "VS Code",
+    "url": "https://code.visualstudio.com",
+    "desc": "主力编辑器，插件生态最全，几乎任何语言都能配成 IDE。"
+  },
+  {
+    "cat": "software",
+    "group": "dev",
+    "name": "GitHub Desktop",
+    "url": "https://desktop.github.com",
+    "desc": "Git 图形客户端，不想记命令行时用它处理提交和分支足够。"
+  },
+  {
+    "cat": "software",
+    "group": "dev",
+    "name": "GitHub CLI（gh）",
+    "url": "https://cli.github.com",
+    "desc": "命令行操作 GitHub：建仓库、改元信息、提 PR、跑 API，批量维护必备。"
+  },
+  {
+    "cat": "software",
+    "group": "file",
+    "name": "Everything",
+    "url": "https://www.voidtools.com",
+    "desc": "Windows 文件名秒搜，几百万文件也是瞬间出结果，装机必装。"
+  },
+  {
+    "cat": "software",
+    "group": "file",
+    "name": "7-Zip",
+    "url": "https://www.7-zip.org",
+    "desc": "开源压缩工具，支持格式最多，无广告。"
+  },
+  {
+    "cat": "software",
+    "group": "file",
+    "name": "qBittorrent",
+    "url": "https://www.qbittorrent.org",
+    "desc": "开源无广告的 BT 客户端，配合搜索插件可站内检索。"
+  },
+  {
+    "cat": "software",
+    "group": "file",
+    "name": "Ventoy",
+    "url": "https://www.ventoy.net",
+    "desc": "U 盘多镜像启动工具，把 ISO 直接拷进去就能选启动，不用反复刻盘。"
+  },
+  {
+    "cat": "software",
+    "group": "av",
+    "name": "VLC",
+    "url": "https://www.videolan.org",
+    "desc": "万能播放器，几乎不存在它放不了的格式。"
+  },
+  {
+    "cat": "software",
+    "group": "av",
+    "name": "OBS Studio",
+    "url": "https://obsproject.com",
+    "desc": "开源录屏与直播，推流、多场景、虚拟摄像头都支持。"
+  },
+  {
+    "cat": "software",
+    "group": "av",
+    "name": "GIMP",
+    "url": "https://www.gimp.org",
+    "desc": "开源图像编辑，Photoshop 的免费替代，日常改图够用。"
+  },
+  {
+    "cat": "software",
+    "group": "av",
+    "name": "Krita",
+    "url": "https://krita.org",
+    "desc": "开源数字绘画，笔刷引擎很强，插画/概念设计首选。"
+  },
+  {
+    "cat": "software",
+    "group": "productivity",
+    "name": "PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "微软官方 Windows 增强工具集：窗口分屏、批量重命名、颜色取色器等。"
+  },
+  {
+    "cat": "software",
+    "group": "productivity",
+    "name": "ShareX",
+    "url": "https://getsharex.com",
+    "desc": "开源截图 + 录屏 + 自动上传，截图后自动存图床生成链接。"
+  },
+  {
+    "cat": "software",
+    "group": "productivity",
+    "name": "Bitwarden",
+    "url": "https://bitwarden.com",
+    "desc": "开源密码管理器，可自托管，跨平台同步。"
+  },
+  {
+    "cat": "software",
+    "group": "productivity",
+    "name": "Notion",
+    "url": "https://www.notion.so",
+    "desc": "在线文档 + 数据库，做项目管理和团队协作模板很方便。"
+  },
+  {
+    "cat": "ai",
+    "group": "myai",
+    "name": "VoiceStudio",
+    "url": "https://github.com/Hua2026-ai/VoiceStudio",
+    "desc": "本地语音克隆与配音，646 种语言，ElevenLabs 的开源替代。"
+  },
+  {
+    "cat": "ai",
+    "group": "myai",
+    "name": "OpenMontage",
+    "url": "https://github.com/Hua2026-ai/OpenMontage",
+    "desc": "把 AI 编码助手扩展成完整视频制作工作室的技能与流水线集合。"
+  },
+  {
+    "cat": "ai",
+    "group": "myai",
+    "name": "jianying-headless",
+    "url": "https://github.com/Hua2026-ai/jianying-headless",
+    "desc": "剪映草稿解析与无头导出，视频流程自动化。"
+  },
+  {
+    "cat": "ai",
+    "group": "myai",
+    "name": "patent-disclosure-skill",
+    "url": "https://github.com/Hua2026-ai/patent-disclosure-skill",
+    "desc": "中文专利技能：专利点挖掘、三种交底书撰写、审查答复辅助。"
+  },
+  {
+    "cat": "ai",
+    "group": "myai",
+    "name": "SenseNova-Skills",
+    "url": "https://github.com/Hua2026-ai/SenseNova-Skills",
+    "desc": "商汤 SenseNova 模块化技能包，搭 AI 办公助手的现成组件。"
+  },
+  {
+    "cat": "ai",
+    "group": "index",
+    "name": "my-forked-repos",
+    "url": "https://github.com/Hua2026-ai/my-forked-repos",
+    "desc": "我自己那份 fork 清单，记录 fork 了什么、各自有什么用，与本库配套。"
+  }
+]
